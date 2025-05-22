@@ -3,7 +3,6 @@ Welcome to my personal portfolio website! This project showcases who I am, my sk
 💻 Technologies Used
 - HTML5
 - CSS3
-- JavaScript (optional for enhancements)
 - Formspree (for handling form submissions)
 - Figma
   
